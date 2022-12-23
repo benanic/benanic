@@ -211,7 +211,7 @@
 					}).trigger('resize.ie-intro-fix');
 				}
 
-			// Hide intro on scroll (> small).
+			/*// Hide intro on scroll (> small).
 				breakpoints.on('>small', function() {
 
 					$main.unscrollex();
@@ -247,7 +247,7 @@
 						}
 					});
 
-			});
+			});*/
 
 		}
 
